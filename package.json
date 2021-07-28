@@ -1,0 +1,15 @@
+{
+  "name": "basic-pii-encryption",
+  "version": "1.0.0",
+  "description": "",
+  "main": "automate-absen-masuk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wijoyo Sugianto",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "puppeteer": "^10.1.0"
+  }
+}
